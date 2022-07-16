@@ -2,3 +2,4 @@ first line for just file creation
 second line for first commit
 third was for devops branch
 fourth for direct pull request
+3 way merge 
